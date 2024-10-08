@@ -1,0 +1,5 @@
+--Mi fichero de consultas
+-- 1 consulta
+SELECT * FROM DIRECTORS
+-- 2 consulta
+SELECT * FROM ACTORS
